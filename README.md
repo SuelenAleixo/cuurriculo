@@ -6,27 +6,21 @@ Aprendiz/Estagio
 
 ##  Formação
 Analise e Desenvolvimento de Sistemas | Unimar 
-
 Cursando (1° Período)
 
 ##  Experiência 
 Auxiliar Administrativo | Empresa X
-
 (07/2021 - 02/2022)
 
 ##  Cursos 
 E-commerce: do planejamento a execução | Senac
-
 Cursando
 
 Analista de Suporte Técnico | MicroPro
-
 Concluido 
 
 Administração Profissionalizante | MicroPro 
-
 Concluido 
 
 Digitação | MicroPro 
-
 Concluido 
