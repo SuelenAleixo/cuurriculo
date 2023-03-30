@@ -6,7 +6,7 @@
 Aprendiz/Estagio
 
 ##  Formação
-Analise e Desenvolvimento de Sistemas | Unimar --onelilne
+Analise e Desenvolvimento de Sistemas | Unimar 
 Cursando (1° Período)
 
 ##  Experiência 
