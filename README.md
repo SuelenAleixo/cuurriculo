@@ -6,7 +6,7 @@
 Aprendiz/Estagio
 
 ##  Formação
-Analise e Desenvolvimento de Sistemas | Unimar \n
+Analise e Desenvolvimento de Sistemas | Unimar <br>
 Cursando (1° Período)
 
 ##  Experiência 
