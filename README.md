@@ -10,18 +10,18 @@ Analise e Desenvolvimento de Sistemas | Unimar <br>
 Cursando (1° Período)
 
 ##  Experiência 
-Auxiliar Administrativo | Empresa X
+Auxiliar Administrativo | Empresa X <br>
 (07/2021 - 02/2022)
 
 ##  Cursos 
-E-commerce: do planejamento a execução | Senac
+E-commerce: do planejamento a execução | Senac <br>
 Cursando
 
-Analista de Suporte Técnico | MicroPro
+Analista de Suporte Técnico | MicroPro <br>
 Concluido 
 
-Administração Profissionalizante | MicroPro 
+Administração Profissionalizante | MicroPro <br> 
 Concluido 
 
-Digitação | MicroPro 
+Digitação | MicroPro <br>
 Concluido 
