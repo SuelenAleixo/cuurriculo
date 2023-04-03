@@ -1,6 +1,6 @@
 # Suelen Aleixo da Silva 
 18 anos | E-mail: suelenaleixo75@gmail.com | Telefone: (xx) xxxxxxxxx | Marília-SP 
-[_linkedin_] (https://www.linkedin.com/in/suelen-da-silva-14b823206/)
+[_linkedin_](https://www.linkedin.com/in/suelen-da-silva-14b823206/)
 
 
 ##  Objetivo
