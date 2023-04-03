@@ -1,5 +1,5 @@
 # Suelen Aleixo da Silva 
-18 anos | E-mail: suelenaleixo75@gmail.com | Telefone: (xx) xxxxxxxxx | Endereço: Rua Caio Grades, 845
+18 anos | E-mail: suelenaleixo75@gmail.com | Telefone: (xx) xxxxxxxxx | Marília-SP
 
 
 ##  Objetivo
@@ -18,10 +18,10 @@ E-commerce: do planejamento a execução | Senac <br>
 Cursando
 
 Analista de Suporte Técnico | MicroPro <br>
-Concluido 
+Concluído 
 
-Administração Profissionalizante | MicroPro <br> 
-Concluido 
+Administração Profissionalizante | MicroPro <br>
+Concluído 
 
 Digitação | MicroPro <br>
-Concluido 
+Concluído 
