@@ -15,6 +15,9 @@ Cursando (1° Período)
 Auxiliar Administrativo | Empresa X <br>
 (07/2021 - 02/2022)
 
+Auxiliar de Escritório | Empresa x <br>
+(03/2022 - 07/2022)
+
 ##  Cursos 
 - E-commerce: do planejamento a execução | Senac <br>
 Cursando
