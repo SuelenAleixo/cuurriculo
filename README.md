@@ -1,6 +1,6 @@
 # Suelen Aleixo da Silva 
-18 anos | Telefone: (xx) xxxxxxxxx | Marília-SP <br>
-E-mail: suelenaleixo75@gmail.com <br>
+18 anos | :iphone: Telefone: (xx) xxxxxxxxx | :house: Marília-SP <br>
+:envelope: E-mail: suelenaleixo75@gmail.com <br>
 [_Linkedin_](https://www.linkedin.com/in/suelen-da-silva-14b823206/)
 
 
@@ -10,6 +10,8 @@ Aprendiz/Estagio
 ##  Formação
 Analise e Desenvolvimento de Sistemas | Unimar <br>
 Cursando (1° Período)
+
+[_Clique aqui para ver as disciplinas do curso._](https://oficial.unimar.br/cursos/analise-e-desenvolvimento-de-sistemas/)
 
 ##  Experiência 
 Auxiliar Administrativo | Empresa X <br>
