@@ -16,14 +16,14 @@ Auxiliar Administrativo | Empresa X <br>
 (07/2021 - 02/2022)
 
 ##  Cursos 
-E-commerce: do planejamento a execução | Senac <br>
+- E-commerce: do planejamento a execução | Senac <br>
 Cursando
 
-Analista de Suporte Técnico | MicroPro <br>
+- Analista de Suporte Técnico | MicroPro <br>
 Concluído 
 
-Administração Profissionalizante | MicroPro <br>
+- Administração Profissionalizante | MicroPro <br>
 Concluído 
 
-Digitação | MicroPro <br>
+- Digitação | MicroPro <br>
 Concluído 
